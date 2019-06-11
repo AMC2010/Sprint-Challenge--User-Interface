@@ -122,9 +122,10 @@ header nav {
     justify-content: center;
 }
 
-.boxes {
-
+.middle-content .boxes .box1 {
+    background-color: teal;
 }
+
 
 .bottom-content {
     display: flex;
