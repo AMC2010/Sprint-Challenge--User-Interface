@@ -72,14 +72,21 @@ p {
 }
 
 header nav {
-    margin-top: 40px;
-    width: 500px;
+    margin-top: 20px;
+    width: 750px;
     justify-content: space-between;
     display: flex;
-    align-content: center;
+    align-content: space-between;
 }
 
+nav .lambda {
+    margin-bottom: 20px;
+}
 
+a:link {
+    text-decoration: none;
+    text-decoration-color: black;
+}
 
 .top-content {
     display: flex;
